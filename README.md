@@ -1,6 +1,6 @@
-# OGC API with Node.js, Express, and PostgreSQL
+# OGC API Features with Node.js, Express, and PostgreSQL
 
-Generic implementation of OGC API with Node.js, Express and PostgreSQL
+Generic implementation of OGC API Features with Node.js, Express and PostgreSQL
 
 ## Step #1
 
