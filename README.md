@@ -4,14 +4,17 @@ Generic implementation of OGC API with Node.js, Express and PostgreSQL
 
 ## Step #1
 
-Create a .env file in the root directory and add the following environment variables:
+Run `cp env.sample .env` and adapt the content of the `.env` file to your environment.
+
+It must at least have the following environment variables:
 
 ```bash
 DB_NAME='<db_name>'
 DB_HOST='<host_name>'
-DB_PORT= <port_number>
+DB_PORT=<port_number>
 DB_USER='<user_name>'
 DB_PASSWORD='<user_password>'
+APP_HOST_PORT=<application_port_on_the_host>
 ```
 
 ## Step #2
